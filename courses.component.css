@@ -1,0 +1,21 @@
+.courses{
+ 
+      margin: 0 0 2em 0;
+      list-style-type: none;
+      padding:0;
+      width:15em;
+}
+.courses li{
+    position: relative;
+    cursor: pointer;
+    background-color: yellowgreen;
+    margin: 1em;
+    padding:.3em 0;
+    height:10px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 4px;
+    vertical-align: middle;
+    text-align: justify;
+}
+
